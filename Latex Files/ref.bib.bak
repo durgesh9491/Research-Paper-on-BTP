@@ -1,0 +1,605 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{brady2015editor,
+  Title                    = {Editor's choice: Adult vector control, mosquito ecology and malaria transmission},
+  Author                   = {Brady, Oliver J and Godfray, H Charles J and Tatem, Andrew J and Gething, Peter W and Cohen, Justin M and McKenzie, F Ellis and Perkins, T Alex and Reiner Jr, Robert C and Tusting, Lucy S and Scott, Thomas W and others},
+  Journal                  = {International health},
+  Year                     = {2015},
+  Number                   = {2},
+  Pages                    = {121},
+  Volume                   = {7},
+
+  Owner                    = {palash jain},
+  Publisher                = {Oxford University Press},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{chitnis2008determining,
+  Title                    = {Determining important parameters in the spread of malaria through the sensitivity analysis of a mathematical model},
+  Author                   = {Chitnis, Nakul and Hyman, James M and Cushing, Jim M},
+  Journal                  = {Bulletin of mathematical biology},
+  Year                     = {2008},
+  Number                   = {5},
+  Pages                    = {1272--1296},
+  Volume                   = {70},
+
+  Owner                    = {palash jain},
+  Publisher                = {Springer},
+  Timestamp                = {2015.09.25}
+}
+
+@Article{cui2008impact,
+  Title                    = {The impact of media on the control of infectious diseases},
+  Author                   = {Cui, Jingan and Sun, Yonghong and Zhu, Huaiping},
+  Journal                  = {Journal of Dynamics and Differential Equations},
+  Year                     = {2008},
+  Number                   = {1},
+  Pages                    = {31--53},
+  Volume                   = {20},
+
+  Owner                    = {palash jain},
+  Publisher                = {Springer},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{frank1983individuals,
+  Title                    = {Individuals infected with two subtypes of influenza A virus in the same season},
+  Author                   = {Frank, Arthur L and Taber, Larry H and Wells, Janet M},
+  Journal                  = {Journal of Infectious Diseases},
+  Year                     = {1983},
+  Number                   = {1},
+  Pages                    = {120--124},
+  Volume                   = {147},
+
+  Owner                    = {palash jain},
+  Publisher                = {Oxford University Press},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{goswami2012information,
+  Title                    = {Information and the dynamics of SEIR e-epidemic model for the spreading behavior of malicious objects in Computer Network},
+  Author                   = {Goswami, Radha Tamal and Mishra, Bimal Kumar},
+  Journal                  = {International Journal of Engineering Science and Technology},
+  Year                     = {2012},
+  Number                   = {10},
+  Pages                    = {4275--4282},
+  Volume                   = {4},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{jianquan2004global,
+  Title                    = {Global analysis of SIS epidemic models with variable total population size},
+  Author                   = {Jianquan, Li and Zhien, Ma},
+  Journal                  = {Mathematical and computer modelling},
+  Year                     = {2004},
+  Number                   = {11},
+  Pages                    = {1231--1242},
+  Volume                   = {39},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@InProceedings{kephart1993measuring,
+  Title                    = {Measuring and modeling computer virus prevalence},
+  Author                   = {Kephart, Jeffrey O and White, Steve R},
+  Booktitle                = {Research in Security and Privacy, 1993. Proceedings., 1993 IEEE Computer Society Symposium on},
+  Year                     = {1993},
+  Organization             = {IEEE},
+  Pages                    = {2--15},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{kephart1993computers,
+  Title                    = {Computers and epidemiology},
+  Author                   = {Kephart, Jeffrey O and White, Steve R and Chess, David M},
+  Journal                  = {Spectrum, IEEE},
+  Year                     = {1993},
+  Number                   = {5},
+  Pages                    = {20--26},
+  Volume                   = {30},
+
+  Owner                    = {palash jain},
+  Publisher                = {IEEE},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{kermack1933contributions,
+  Title                    = {Contributions to the mathematical theory of epidemics. III. Further studies of the problem of endemicity},
+  Author                   = {Kermack, William O and McKendrick, Anderson G},
+  Journal                  = {Proceedings of the Royal Society of London. Series A},
+  Year                     = {1933},
+  Number                   = {843},
+  Pages                    = {94--122},
+  Volume                   = {141},
+
+  Owner                    = {palash jain},
+  Publisher                = {The Royal Society},
+  Timestamp                = {2015.09.17}
+}
+
+@InProceedings{kermack1932contributions,
+  Title                    = {Contributions to the mathematical theory of epidemics. II. The problem of endemicity},
+  Author                   = {Kermack, William O and McKendrick, Anderson G},
+  Booktitle                = {Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  Year                     = {1932},
+  Number                   = {834},
+  Organization             = {The Royal Society},
+  Pages                    = {55--83},
+  Volume                   = {138},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.23}
+}
+
+@InProceedings{kermack1927contribution,
+  Title                    = {A contribution to the mathematical theory of epidemics},
+  Author                   = {Kermack, William O and McKendrick, Anderson G},
+  Booktitle                = {Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  Year                     = {1927},
+  Number                   = {772},
+  Organization             = {The Royal Society},
+  Pages                    = {700--721},
+  Volume                   = {115},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{kumar2013new,
+  Title                    = {A New Model on the Spread of Malicious Objects in Computer Network},
+  Author                   = {Kumar, Munna and Mishra, Bimal Kumar and Panda, TC},
+  Journal                  = {IJHIT},
+  Year                     = {2013},
+  Number                   = {6},
+  Pages                    = {161--176},
+  Volume                   = {6},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{ref2,
+  Title                    = {Qualitative Analysis of SIS Epidemic Model with Vaccination and Varying Total Population Size},
+  Author                   = {JianWuan Li and ZHIEN Ma},
+  Journal                  = {Mathematical and Computer Modelling},
+  Year                     = {2002},
+  Number                   = {11-12},
+  Pages                    = {1235--1243},
+  Volume                   = {35},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{liu2008impact,
+  Title                    = {The impact of media coverage on the dynamics of infectious disease},
+  Author                   = {Liu, Yiping and Cui, Jing-an},
+  Journal                  = {International Journal of Biomathematics},
+  Year                     = {2008},
+  Number                   = {01},
+  Pages                    = {65--74},
+  Volume                   = {1},
+
+  Owner                    = {palash jain},
+  Publisher                = {World Scientific},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{mishra2012differential,
+  Title                    = {Differential Epidemic Model of Virus and Worms in Computer Network.},
+  Author                   = {Mishra, Bimal Kumar and Ansari, Gholam Mursalin},
+  Journal                  = {IJ Network Security},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {149--155},
+  Volume                   = {14},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{mishra2mathematical,
+  Title                    = {Mathematical Models on Interaction between Computer Virus and Antivirus Software inside a Computer System},
+  Author                   = {Mishra, Bimal Kumar and Ansari, Gholam Mursalin},
+  Journal                  = {International Journal of Computer and Network Security},
+  Year                     = {2010},
+  Number                   = {8},
+  Pages                    = {84--89},
+  Volume                   = {2},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Mishra2010,
+  Title                    = {SEIQRS model for the transmission of malicious objects in computer network},
+  Author                   = {Mishra, Bimal Kumar and Jha, Navnit},
+  Journal                  = {Applied Mathematical Modelling},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {710--715},
+  Volume                   = {34},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Mishra2010a,
+  Title                    = {SEIQRS model for the transmission of malicious objects in computer network},
+  Author                   = {Mishra, Bimal Kumar and Jha, Navnit},
+  Journal                  = {Applied Mathematical Modelling},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {710--715},
+  Volume                   = {34},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{mishra2011,
+  Title                    = {Dynamic model of worms with vertical transmission in computer network},
+  Author                   = {Mishra, Bimal Kumar and Pandey, Samir Kumar},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2011},
+  Number                   = {21},
+  Pages                    = {8438--8446},
+  Volume                   = {217},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{mishra2014mathematical,
+  Title                    = {Mathematical Model on Attack by Malicious Objects Leading to Cyber War},
+  Author                   = {Mishra, Bimal Kumar and Prajapati, Apeksha},
+  Journal                  = {International Journal of Nonlinear Science},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {145--153},
+  Volume                   = {17},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{Mishra2007,
+  Title                    = {Mathematical models on computer viruses},
+  Author                   = {Mishra, Bimal Kumar and Saini, Dinesh},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2007},
+  Number                   = {2},
+  Pages                    = {929--936},
+  Volume                   = {187},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{mishra2007mathematical,
+  Title                    = {Mathematical models on computer viruses},
+  Author                   = {Mishra, Bimal Kumar and Saini, Dinesh},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2007},
+  Number                   = {2},
+  Pages                    = {929--936},
+  Volume                   = {187},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{mishra2007seirs,
+  Title                    = {SEIRS epidemic model with delay for transmission of malicious objects in computer network},
+  Author                   = {Mishra, Bimal Kumar and Saini, Dinesh Kumar},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2007},
+  Number                   = {2},
+  Pages                    = {1476--1482},
+  Volume                   = {188},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{mishra2014quarantine,
+  Title                    = {A quarantine model on the spreading behavior of worms in wireless sensor network},
+  Author                   = {Mishra, Binay Kumar and Srivastava, Santosh Kumar and Mishra, Bimal Kumar},
+  Journal                  = {Transaction on IoT and Cloud Computing},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {1--12},
+  Volume                   = {2},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{misra2011modeling,
+  Title                    = {Modeling and analysis of effects of awareness programs by media on the spread of infectious diseases},
+  Author                   = {Misra, AK and Sharma, Anupama and Shukla, JB},
+  Journal                  = {Mathematical and Computer Modelling},
+  Year                     = {2011},
+  Number                   = {5},
+  Pages                    = {1221--1228},
+  Volume                   = {53},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{misra2014capturing,
+  Title                    = {Capturing the interplay between malware and anti-malware in a computer network},
+  Author                   = {Misra, AK and Verma, Maitri and Sharma, Anupama},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2014},
+  Pages                    = {340--349},
+  Volume                   = {229},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{anupama2014,
+  Title                    = {Capturing the interplay between malware and anti-malware in a computer network},
+  Author                   = {Misra, Arvind K and Verma, Maitri and Sharma, Anupama},
+  Journal                  = {Applied Mathematics and Computation},
+  Year                     = {2014},
+  Pages                    = {340--349},
+  Volume                   = {229},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{molen2011math,
+  Title                    = {Math on malware},
+  Author                   = {Molen, HJ},
+  Journal                  = {Inform Syst Audit Control Assoc J},
+  Year                     = {2011},
+  Pages                    = {41--46},
+  Volume                   = {3},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{molen2011math,
+  Title                    = {Math on malware},
+  Author                   = {Molen, HJ},
+  Journal                  = {Inform Syst Audit Control Assoc J},
+  Year                     = {2011},
+  Pages                    = {41--46},
+  Volume                   = {3},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{molen2011math,
+  Title                    = {Math on malware},
+  Author                   = {Molen, HJ},
+  Journal                  = {Inform Syst Audit Control Assoc J},
+  Year                     = {2011},
+  Pages                    = {41--46},
+  Volume                   = {3},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{pang2011rich,
+  Title                    = {Rich dynamics of epidemic model with sub-optimal immunity and nonlinear recovery rate},
+  Author                   = {Pang, Jianhua and Cui, Jing-an and Hui, Jing},
+  Journal                  = {Mathematical and Computer Modelling},
+  Year                     = {2011},
+  Number                   = {1},
+  Pages                    = {440--448},
+  Volume                   = {54},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{piqueira2005epidemiological,
+  Title                    = {Epidemiological models applied to viruses in computer networks},
+  Author                   = {Piqueira, Jos{\'e} RS and Navarro, Betyna F and Monteiro, Luiz HA},
+  Journal                  = {Journal of Computer Science},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {31--34},
+  Volume                   = {1},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{Piqueira2008,
+  Title                    = {Dynamic models for computer viruses},
+  Author                   = {Piqueira, Jose RC and de Vasconcelos, Adolfo A and Gabriel, Carlos ECJ and Araujo, Vanessa O},
+  Journal                  = {Computers \& Security},
+  Year                     = {2008},
+  Number                   = {7},
+  Pages                    = {355--359},
+  Volume                   = {27},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{piqueira2008dynamic,
+  Title                    = {Dynamic models for computer viruses},
+  Author                   = {Piqueira, Jose RC and de Vasconcelos, Adolfo A and Gabriel, Carlos ECJ and Araujo, Vanessa O},
+  Journal                  = {Computers \& Security},
+  Year                     = {2008},
+  Number                   = {7},
+  Pages                    = {355--359},
+  Volume                   = {27},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{ren2013optimal,
+  Title                    = {Optimal Control of a Delay-Varying Computer Virus Propagation Model},
+  Author                   = {Ren, Jianguo and Xu, Yonghong and Zhang, Chunming},
+  Journal                  = {Discrete Dynamics in Nature and Society},
+  Year                     = {2013},
+  Pages                    = {1-7},
+  Volume                   = {2013},
+
+  Owner                    = {palash jain},
+  Publisher                = {Hindawi Publishing Corporation},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{safi2011mathematical,
+  Title                    = {Mathematical analysis of a disease transmission model with quarantine, isolation and an imperfect vaccine},
+  Author                   = {Safi, Mohammad A and Gumel, Abba B},
+  Journal                  = {Computers \& Mathematics with Applications},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {3044--3070},
+  Volume                   = {61},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{sahu2015dynamics,
+  Title                    = {Dynamics of an SEQIHRS epidemic model with media coverage, quarantine and isolation in a community with pre-existing immunity},
+  Author                   = {Sahu, Govind Prasad and Dhar, Joydip},
+  Journal                  = {Journal of Mathematical Analysis and Applications},
+  Year                     = {2015},
+  Number                   = {2},
+  Pages                    = {1651--1672},
+  Volume                   = {421},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{sahu2012,
+  Title                    = {Analysis of an SVEIS epidemic model with partial temporary immunity and saturation incidence rate},
+  Author                   = {Sahu, Govind Prasad and Dhar, Joydip},
+  Journal                  = {Applied Mathematical Modelling},
+  Year                     = {2012},
+  Number                   = {3},
+  Pages                    = {908--923},
+  Volume                   = {36},
+
+  Owner                    = {palash jain},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{sun2014impact,
+  Title                    = {Impact of anti-virus software on computer virus dynamical behavior},
+  Author                   = {Sun, Mei and Li, Dandan and Han, Dun and Jia, Changsheng},
+  Journal                  = {International Journal of Modern Physics C},
+  Year                     = {2014},
+  Number                   = {05},
+  Pages                    = {1440010},
+  Volume                   = {25},
+
+  Owner                    = {palash jain},
+  Publisher                = {World Scientific},
+  Timestamp                = {2015.09.17}
+}
+
+@InProceedings{thommes2006epidemiological,
+  Title                    = {Epidemiological Modelling of Peer-to-Peer Viruses and Pollution.},
+  Author                   = {Thommes, Richard W and Coates, Mark},
+  Booktitle                = {INFOCOM},
+  Year                     = {2006},
+  Pages                    = {1--12},
+  Volume                   = {6},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{wang2015worm,
+  Title                    = {A Worm Defending Model with Partial Immunization and Its Stability Analysis},
+  Author                   = {Wang, Fangwei and Yang, Yong and Zhao, Dongmei and Zhang, Yunkai},
+  Journal                  = {Journal of Communications},
+  Year                     = {2015},
+  Number                   = {4},
+  Volume                   = {10},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.23}
+}
+
+@InProceedings{wang2013stochastic,
+  Title                    = {Stochastic extinction in an SIRS epidemic model incorporating media coverage},
+  Author                   = {Wang, Liyan and Huang, Huilin and Xu, Ancha and Wang, Weiming},
+  Booktitle                = {Abstract and Applied Analysis},
+  Year                     = {2013},
+  Organization             = {Hindawi Publishing Corporation},
+  Volume                   = {2013},
+
+  Owner                    = {palash jain},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{ref3,
+  Title                    = {Global behavior of an SEIRS epidemic model with time delays},
+  Author                   = {Wendi Wang},
+  Journal                  = {Applied Mathematics Letters},
+  Year                     = {2002},
+  Pages                    = {423-428},
+  Volume                   = {15(4)},
+
+  Owner                    = {ram},
+  Timestamp                = {2011.09.26}
+}
+
+@Article{xing2009preexisting,
+  Title                    = {Preexisting immunity to pandemic (H1N1) 2009},
+  Author                   = {Xing, Zheng and Cardona, Carol J},
+  Journal                  = {Emerging infectious diseases},
+  Year                     = {2009},
+  Number                   = {11},
+  Pages                    = {1847},
+  Volume                   = {15},
+
+  Owner                    = {palash jain},
+  Publisher                = {Centers for Disease Control},
+  Timestamp                = {2015.09.17}
+}
+
+@Article{yang2012towards,
+  Title                    = {Towards the epidemiological modeling of computer viruses},
+  Author                   = {Yang, Xiaofan and Yang, Lu-Xing},
+  Journal                  = {Discrete Dynamics in Nature and Society},
+  Year                     = {2012},
+  Volume                   = {2012},
+
+  Owner                    = {palash jain},
+  Publisher                = {Hindawi Publishing Corporation},
+  Timestamp                = {2015.09.23}
+}
+

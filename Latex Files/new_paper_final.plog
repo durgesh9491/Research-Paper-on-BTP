@@ -1,0 +1,48 @@
+Chikrii Softlab pseudoTeX 3.0 report.
+http://www.chikrii.com, mailto: support@chikrii.com
+
+new_paper_final.tex (Ln 3) Warning: Can't find pseudoTeX definition for class/package (amsfonts)
+new_paper_final.tex (Ln 6) Warning: Can't find pseudoTeX definition for class/package (lmodern)
+new_paper_final.tex (Ln 10) Warning: Can't find pseudoTeX definition for class/package (subfigure)
+new_paper_final.tex (Ln 11) Warning: Can't find pseudoTeX definition for class/package (lipsum)
+new_paper_final.tex (Ln 12) Warning: Can't find pseudoTeX definition for class/package (fancyhdr)
+new_paper_final.tex (Ln 16) Warning: Can't find pseudoTeX definition for class/package (geometry)
+new_paper_final.tex (Ln 17) Syntax Error: Undefined control sequence (\ifCLASSINFOpdf)
+new_paper_final.tex (Ln 19) Syntax Error: extra \fi\or\else
+new_paper_final.tex (Ln 21) Syntax Error: Undefined control sequence (\DeclareGraphicsExtensions)
+new_paper_final.tex (Ln 22) Syntax Error: extra \fi\or\else
+new_paper_final.tex (Ln 29) Syntax Error: Undefined control sequence (\chead)
+new_paper_final.tex (Ln 30) Syntax Error: Undefined control sequence (\lfoot)
+new_paper_final.tex (Ln 30) Syntax Error: Extra }, or forgotten $
+new_paper_final.tex (Ln 30) Syntax Error: Extra }, or forgotten $
+new_paper_final.tex (Ln 32) Syntax Error: Missing $ inserted
+new_paper_final.tex (Ln 38) Syntax Error: Undefined control sequence (\abstractname) within (\begin)
+new_paper_final.tex (Ln 41) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 41) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 42) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 78) Syntax Error: Undefined control sequence (\ti)
+new_paper_final.tex (Ln 93) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+new_paper_final.tex (Ln 108) Syntax Error: Undefined control sequence (\ti)
+new_paper_final.tex (Ln 196) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+new_paper_final.tex (Ln 248) Syntax Error: Undefined control sequence (\fra)
+new_paper_final.tex (Ln 357) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 357) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 370) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 370) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 370) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 374) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 374) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 380) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 394) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 405) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 419) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 481) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+new_paper_final.tex (Ln 489) Syntax Error: Undefined control sequence (\figurename) within (\caption)
+new_paper_final.tex (Ln 495) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+new_paper_final.tex (Ln 525) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 527) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 529) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 531) Syntax Error: Undefined control sequence (\cal)
+new_paper_final.tex (Ln 559) Syntax Error: Undefined control sequence (\subfigure)
+new_paper_final.tex (Ln 590) Syntax Error: Undefined control sequence (\tablename) within (\caption)
+new_paper_final.tex (Ln 615) Syntax Error: Undefined control sequence (\addcontentsline)
